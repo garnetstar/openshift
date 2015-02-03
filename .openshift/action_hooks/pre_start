@@ -1,3 +1,4 @@
 #!/bin/bash
 echo '-----------------SSSSSSSSSSSSSSSSSS------------------'
-echo $OPENSHIFT_HOMEDIR
+cd $OPENSHIFT_HOMEDIR
+ls -l

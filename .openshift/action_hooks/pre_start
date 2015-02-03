@@ -4,4 +4,4 @@ cd $OPENSHIFT_HOMEDIR
 ls -l
 echo '-----------OPENSHIFT_REPO_DIR------------'
 cd $OPENSHIFT_REPO_DIR
-ls -l
+php composer.phar

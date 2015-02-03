@@ -1,3 +1,3 @@
 #!/bin/bash
 echo '-----------------SSSSSSSSSSSSSSSSSS------------------'
-cat ./php/index.php
+cat /php/index.php

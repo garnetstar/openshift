@@ -1,3 +1,4 @@
 #!/bin/bash
 echo '-----------------SSSSSSSSSSSSSSSSSS------------------'
-cat index.php
+pwd
+ls -l

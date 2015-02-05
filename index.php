@@ -208,7 +208,7 @@ line-height: 1.4;
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your PHP application on OpenShift Bachelors thesis</h1>
+            <h1>Welcome to your PHP application on OpenShift Bachelors thesis synchronized with GitHub</h1>
           </hgroup>
 
 
